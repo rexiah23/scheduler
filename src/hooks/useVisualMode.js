@@ -12,9 +12,9 @@ const useVisualMode = initial => {
    
     if (replace) {
       setHistory(prev => {
-        const copy = [...prev]
-        copy[copy.length - 1] = newMode
-        return copy;
+        const copyState = [...prev]
+        copyState[copyState.length - 1] = newMode
+        return copyState;
       })
       return;
     }
@@ -31,9 +31,9 @@ const useVisualMode = initial => {
       }
       
       setHistory(prev => {
-        const copy = [...prev];
-        copy.pop();
-        return copy;
+        const copyState = [...prev];
+        copyState.pop();
+        return copyState;
       })
     }
 
