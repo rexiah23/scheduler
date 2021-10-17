@@ -30,9 +30,9 @@ npm run storybook
 
 Final Product
 
-![Alt text](/docs/1.png)
-![Alt text](/docs/2.png)
-![Alt text](/docs/3.png)
-![Alt text](/docs/4.png)
-![Alt text](/docs/5.png)
+![Alt text](https://github.com/rexiah23/scheduler/blob/master/docs/1.png)
+![Alt text](https://github.com/rexiah23/scheduler/blob/master/docs/2.png)
+![Alt text](https://github.com/rexiah23/scheduler/blob/master/docs/3.png)
+![Alt text](https://github.com/rexiah23/scheduler/blob/master/docs/4.png)
+![Alt text](https://github.com/rexiah23/scheduler/blob/master/docs/5.png)
 
