@@ -36,5 +36,5 @@ Final Product
 ![Alt text](https://github.com/rexiah23/scheduler/blob/master/docs/4.png)
 ![Alt text](https://github.com/rexiah23/scheduler/blob/master/docs/5.png)
 
-Deployed Project Link: https://zen-mcclintock-7d6d3a.netlify.app/
-Link to back-end repo: https://github.com/rexiah23/scheduler-api
+## Deployed Project Link: https://zen-mcclintock-7d6d3a.netlify.app/
+## Link to back-end repo: https://github.com/rexiah23/scheduler-api
