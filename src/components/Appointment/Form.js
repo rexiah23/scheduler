@@ -19,17 +19,18 @@ const Form = props => {
     onCancel()
   }
 
+  console.log(interviewerState)
   function validate() {
     if (nameState === "") {
       setError("Student name cannot be blank");
       return;
     }
 
-    if (interviewerState === "") {
+    if (!interviewerState) {
       setError("Please select an interviewer by clicking on the icon");
       return;
     }
-    
+
     setError(''); 
     onSave(nameState, interviewerState); 
   }
