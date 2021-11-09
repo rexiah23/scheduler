@@ -12,5 +12,5 @@
   command = "npm run build"
 
 [build.environment]
-  REACT_APP_API_BASE_URL = "https://https://interviewschedulerlewislee.herokuapp.com/"
-  REACT_APP_WEBSOCKET_URL = "wss://https://interviewschedulerlewislee.herokuapp.com/"
+  REACT_APP_API_BASE_URL = "https://interviewschedulerlewislee.herokuapp.com/"
+  REACT_APP_WEBSOCKET_URL = "wss://interviewschedulerlewislee.herokuapp.com/"

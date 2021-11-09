@@ -24,6 +24,12 @@ const Form = props => {
       setError("Student name cannot be blank");
       return;
     }
+
+    if (interviewerState === "") {
+      setError("Please select an interviewer by clicking on the icon");
+      return;
+    }
+    
     setError(''); 
     onSave(nameState, interviewerState); 
   }
